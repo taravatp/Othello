@@ -6,5 +6,7 @@
 
 # Demo
 
+![](/demo.gif)
+
 
 [![Watch the demo]](https://github.com/taravatp/Othello/blob/main/demo.gif)
