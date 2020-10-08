@@ -7,4 +7,4 @@
 # Demo
 
 
-[![Watch the demo](https://i.imgur.com/vKb2F1B.png)](https://youtu.be/vt5fpE0bzSY)
+[![Watch the demo]](https://github.com/taravatp/Othello/blob/main/demo.mp4)
