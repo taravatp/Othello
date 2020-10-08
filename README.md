@@ -7,4 +7,4 @@
 # Demo
 
 
-<img src="https://github.com/taravatp/Othello/blob/main/demo.gif" width="500" height="500">
+<img src="https://github.com/taravatp/Othello/blob/main/demo.gif" width="400" height="500">
