@@ -4,3 +4,7 @@
 * The performance of the AI player is enhanced by with Alpha-betha pruning functions.
 * Developed the graphical interface with PyGame.
 
+# Demo
+
+
+[![Watch the demo](https://i.imgur.com/vKb2F1B.png)](https://youtu.be/vt5fpE0bzSY)
